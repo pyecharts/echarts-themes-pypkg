@@ -15,6 +15,15 @@ Installation
 ================================================================================
 
 
+You can install echarts-themes-pypkg via pip:
+
+.. code-block:: bash
+
+    $ pip install echarts-themes-pypkg
+
+
+or clone it and install it:
+
 .. code-block:: bash
 
     $ git clone https://github.com/pyecharts/echarts-themes-pypkg.git
