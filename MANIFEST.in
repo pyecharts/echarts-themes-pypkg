@@ -1,0 +1,4 @@
+include README.rst
+include CHANGELOG.rst
+include echarts_themes_pypkg/resources/echarts-themes-js/*.js
+include echarts_themes_pypkg/resources/registry.json

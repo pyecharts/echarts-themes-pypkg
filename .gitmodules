@@ -1,0 +1,3 @@
+[submodule "echarts_themes_pypkg/resources"]
+	path = echarts_themes_pypkg/resources
+	url = https://github.com/pyecharts/echarts-themes-js
