@@ -3,13 +3,13 @@ organisation: "pyecharts"
 author: "C.W."
 contact: "wangc_2011@hotmail.com"
 company: "pyecharts dev team"
-version: "0.0.1"
-current_version: "0.0.1"
-release: "0.0.1"
+version: "0.0.2"
+current_version: "0.0.2"
+release: "0.0.2"
 copyright_year: 2018
 license: git push -u origin masterMIT
 nowheel: true
 dependencies:
-  - lml==0.0.2
+  - lml>=0.0.2
   - pyecharts-jupyter-installer==0.0.3
 description: "packages echarts vintage, macarons, infographic, shine, roma themes"
