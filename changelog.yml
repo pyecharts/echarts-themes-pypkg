@@ -4,8 +4,14 @@ releases:
 - changes:
   - action: Added
     details:
-    - "upgrade to echarts-themes-js 1.0.1, adding addtional 7 themes: esteros, wonderland, chalk, halloween, essos, walden and purple-passion"
-  date: 12/08/2018 
+    - "upgrade to echarts-themes-js 1.0.2, adding addtional romatic theme"
+  date: 13/08/2018
+  version: 0.0.3
+- changes:
+  - action: Added
+    details:
+    - "upgrade to echarts-themes-js 1.0.1, adding addtional 7 themes: westeros, wonderland, chalk, halloween, essos, walden and purple-passion"
+  date: 12/08/2018
   version: 0.0.2
 - changes:
   - action: Added

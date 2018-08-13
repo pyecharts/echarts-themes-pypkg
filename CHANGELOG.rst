@@ -1,13 +1,21 @@
 Change log
 ================================================================================
 
+0.0.3 - 13/08/2018
+--------------------------------------------------------------------------------
+
+Added
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+#. upgrade to echarts-themes-js 1.0.2, adding addtional romatic theme
+
 0.0.2 - 12/08/2018
 --------------------------------------------------------------------------------
 
 Added
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-#. upgrade to echarts-themes-js 1.0.1, adding addtional 7 themes: esteros,
+#. upgrade to echarts-themes-js 1.0.1, adding addtional 7 themes: westeros,
    wonderland, chalk, halloween, essos, walden and purple-passion
 
 0.0.1 - 5.2018
